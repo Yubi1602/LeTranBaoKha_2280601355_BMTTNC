@@ -95,5 +95,5 @@ class QuanLySinhVien:
         print("\n")
 
     def getListSinhVien(self):
-        return self.listSin
+        return self.listSinhVien
 
